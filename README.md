@@ -18,7 +18,7 @@ Todos os arquivos ficam na mesma pasta (raiz do repositório):
 No começo do `script.js`:
 
 ```js
-const WHATSAPP = "558189484064";
+const WHATSAPP = "55";
 const INSTAGRAM = "https://www.instagram.com/refrigeracaojv";
 ```
 
